@@ -1,0 +1,2 @@
+# InputController
+ゲームパッドを入力してAruduinoを操作する
